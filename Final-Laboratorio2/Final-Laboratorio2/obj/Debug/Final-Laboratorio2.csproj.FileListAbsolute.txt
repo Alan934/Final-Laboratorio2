@@ -1,0 +1,25 @@
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.exe.config
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.exe
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.pdb
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.Properties.Resources.resources
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.GenerateResource.cache
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.exe
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.pdb
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormInicioSesion.resources
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormRegistro.resources
+C:\Users\alan sanjurjo\source\repos\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormCuenta.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormInicioSesion.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormRegistro.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormCuenta.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.Properties.Resources.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.GenerateResource.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final-Laboratorio2.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.exe.config
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\bin\Debug\Final-Laboratorio2.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Final-Laboratorio2\Final-Laboratorio2\obj\Debug\Final_Laboratorio2.FormOpciones.resources
